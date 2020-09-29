@@ -34,7 +34,7 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 2. In the window with the command prompt (or powershell), type in the command for ssh:
 
 ```shell
-ssh username@pu1.cs.ohio.edu
+ssh Suzy_ab@pu1.cs.ohio.edu
 ```
 
 Don't forget to replace the `username` with your actual username (it is not the same one as the email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
